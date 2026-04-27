@@ -1,15 +1,5 @@
 [
 	{
-		"name": "Example Student",
-		"class": "LA06",
-		"quote": "Small commits make big projects manageable."
-	},
-	{
-		"name": "Example Student 2",
-		"class": "LF07",
-		"quote": "A clear commit message helps your future self."
-	},
-	{
 		"name": "Owi",
 		"class": "LE01",
 		"quote": "we wok de tok not anle tok de tok"
@@ -40,6 +30,11 @@
     "quote": "Talk is cheap. Show me the code."
   },
   {
+    "name": "Tes",
+    "class": "LE01",
+    "quote": "Testing is essential for reliable software."
+  },
+  {
     "name": "Jerome M.B",
     "class": "LE01",
     "quote": "Be yourself and never surrender."
@@ -56,7 +51,12 @@
   },
   {
     "name": "John",
-    "class": "LE07",
+    "class": "LE01",
     "quote": "if debugging is the process of removing software bugs, then programming must be the process of putting them in." 
+  },
+  {
+  "name": "Linus Torvalds",
+  "class": "LE01",
+  "quote": "Talk is cheap. Show me the code."
   }
 ]
