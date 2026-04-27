@@ -20,6 +20,16 @@
     "quote": "membelajari pergit an dunia sangat mengasikan"
   },
   {
+    "name": "Alin Lorensia",
+    "class": "LE01",
+    "quote": "I like bread"
+  },
+  {
+    "name": "Daniel Regis",
+    "class": "LE01",
+    "quote": "feat: add random quote"
+  },
+	{
     "name": "Stanislaus Alva Jufinto",
     "class": "LF07",
     "quote": "A clear commit message helps your future self."
@@ -28,11 +38,25 @@
     "name": "Tes",
     "class": "LE01",
     "quote": "Testing is essential for reliable software."
-    "quote": "Salam kenal aku gue."
   },
+  {
+    "name": "Jerome M.B",
+    "class": "LE01",
+    "quote": "Be yourself and never surrender."
+  },
+    {
+    "name": "Yosuke",
+    "class": "LE07",
+    "quote": "A journey of a thousand miles begins with a single step."
+	},
   {
     "name": "Arief Arya Menon",
     "class": "LE01",
     "quote": "Hard things are easy when you don't think it's hard."
+  },
+  {
+    "name": "John",
+    "class": "LE07",
+    "quote": "if debugging is the process of removing software bugs, then programming must be the process of putting them in." 
   }
 ]
