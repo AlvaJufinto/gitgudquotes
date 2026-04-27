@@ -8,5 +8,10 @@
     "name": "Example Student 2",
     "class": "LF07",
     "quote": "A clear commit message helps your future self."
+  },
+  {
+    "name": "Tes",
+    "class": "LE01",
+    "quote": "Testing is essential for reliable software."
   }
 ]
